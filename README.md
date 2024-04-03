@@ -5,19 +5,10 @@ Overview
 In this project, I've developed machine learning models to predict the likelihood of heart disease based on various patient attributes. Using Python and popular libraries like scikit-learn, I've implemented data preprocessing, model training, and evaluation processes to create accurate predictions.
 
 Project Structure
-data/: Contains the dataset used for training and testing the models.
-src/: Contains the source code for data preprocessing, model training, and evaluation.
-preprocessing.py: Code for cleaning and preparing the dataset.
-model_training.py: Code for training machine learning models.
-evaluation.py: Code for evaluating model performance.
+heart.csv/: Contains the dataset used for training and testing the models.
+cardio_project_1.ipynb/: Contains the source code for data preprocessing, model training, and evaluation.
 README.md: Provides an overview of the project and instructions for usage.
 LICENSE: Specifies the license for this project.
-Getting Started
-Clone this repository to your local machine.
-Navigate to the project directory.
-Install the required dependencies by running:
-pip install -r requirements.txt
-Run the Jupyter notebooks or Python scripts in the src/ directory to explore the project.
 Contributions
 Contributions, feedback, and suggestions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
 
